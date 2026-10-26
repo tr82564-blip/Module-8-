@@ -1,0 +1,12 @@
+Widget
+10
+50
+Hammer
+2
+10
+Saw
+4
+8
+Nails
+5
+2
